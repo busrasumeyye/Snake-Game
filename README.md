@@ -1,2 +1,2 @@
 # Snake-Game
-I made a simple snake game with C.
+I made a simple snake game with C,using libraries.
